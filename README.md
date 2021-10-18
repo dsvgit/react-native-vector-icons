@@ -297,6 +297,7 @@ Since `Icon` builds on top of the `Text` component, most [style properties](http
 - `margin`
 - `color`
 - `fontSize`
+- `lineHeight`
 
 NOTE: On android `Text` doesn't currently support `border*` styles, to circumvent this simply wrap your `Icon` with a `View`.
 
